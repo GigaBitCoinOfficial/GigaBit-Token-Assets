@@ -3,7 +3,7 @@
 <body style="font-family:Arial,sans-serif;line-height:1.6;background:#fff;color:#000;padding:20px;">
 
   <h1>GigaBit Coin (GBC) – Whitepaper</h1>
-  <p><strong>Version:</strong> 2.0 | <strong>Updated:</strong> July 2025</p>
+  <p><strong>Version:</strong> 2.0 | <strong>Updated:</strong>19 July 2025</p>
   <p><strong>Blockchain:</strong> Binance Smart Chain (BEP-20)</p>
 
   <hr/>
@@ -20,8 +20,7 @@
     <li><strong>Network:</strong> Binance Smart Chain (BEP-20)</li>
     <li><strong>Decimals:</strong> 18</li>
     <li><strong>Release Date:</strong> 30 June 2025</li>
-    <li><strong>Contract Address:</strong> 0xBc20ADa73E3138f663A864156f940F7FA212EdA1</li>
-    <li><strong>Source Code:</strong> <a href="https://github.com/GigaBitCoinOfficial" target="_blank">GitHub - GBC Contract</a></li>
+    <li><strong>Contract Address:</strong><code> 0xBc20ADa73E3138f663A864156f940F7FA212EdA1</code></li>
   </ul>
 
   <h2>3. Token Utility</h2>
